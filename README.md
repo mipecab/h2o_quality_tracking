@@ -1,6 +1,6 @@
 # Aplicación MEAN
 
-
+Basado en https://www.mongodb.com/mean-stack
 
 # Registro en repositorio github
 'echo "# h2o_quality_tracking" >> README.md'
