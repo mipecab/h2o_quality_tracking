@@ -1,6 +1,7 @@
 # Aplicación MEAN
 
 Basado en https://www.mongodb.com/mean-stack
+Otra referencia: https://www.mongodb.com/languages/mern-stack-tutorial
 
 # Registro en repositorio github
 'echo "# h2o_quality_tracking" >> README.md'
